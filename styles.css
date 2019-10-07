@@ -1,0 +1,13 @@
+
+
+.blue-rect {
+    height: 200px;
+    background-color: plum;
+    border-style: 1px solid lightcoral;
+}
+
+.red-rect {
+    height: 200px;
+    background-color:lightcyan;
+    border-style: 1px solid lightcoral;
+}
